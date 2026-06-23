@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72" role="img" aria-label="DeskForge logo">
+  <defs><linearGradient id="g" x1="8" x2="64" y1="4" y2="68"><stop stop-color="#fff"/><stop offset=".45" stop-color="#f4f2ec"/><stop offset="1" stop-color="#d9d2c4"/></linearGradient><linearGradient id="m" x1="18" x2="54" y1="16" y2="58"><stop stop-color="#7f8a75"/><stop offset="1" stop-color="#3c4637"/></linearGradient></defs>
+  <rect x="4" y="4" width="64" height="64" rx="18" fill="url(#g)"/><rect x="6" y="6" width="60" height="60" rx="16" fill="none" stroke="#fff" stroke-width="2"/>
+  <path d="M18 46h36M24 26h24v15H24V26Zm6 25h12M30 19h12M22 56h28" fill="none" stroke="url(#m)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/><circle cx="56" cy="17" r="5" fill="#7f8a75"/>
+  <text x="36" y="64" text-anchor="middle" fill="#151515" font-family="Avenir Next, Helvetica, Arial, sans-serif" font-size="7" font-weight="900">DeskForge</text>
+</svg>
