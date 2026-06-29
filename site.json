@@ -1,0 +1,292 @@
+{
+  "slug": "deskforge",
+  "projectName": "deskforge",
+  "baseUrl": "https://rmulkey.github.io/deskforge",
+  "brand": "DeskForge",
+  "category": "Premium Desk Setup Accessories",
+  "eyebrow": "Desk setup edit",
+  "title": "Best Premium Desk Setup Accessories And Cable Management Picks",
+  "description": "DeskForge curates monitor stands, cable trays, laptop risers, desk organizers, and clean workspace accessories with direct Amazon links.",
+  "h1": "Desk accessories for a workspace that looks intentional.",
+  "dek": "A polished buying guide for cable control, monitor height, laptop docks, under-desk storage, and the small upgrades that make a desk easier to sit down to.",
+  "guideSlug": "premium-desk-setup-accessories-guide",
+  "guideTitle": "Premium Desk Setup Accessories Guide",
+  "guideDescription": "Compare cable trays, monitor risers, laptop stands, desk drawers, and organization accessories before buying.",
+  "queries": [
+    "premium desk organizer",
+    "under desk cable management tray",
+    "monitor stand riser",
+    "laptop stand for desk",
+    "under desk drawer organizer"
+  ],
+  "palette": [
+    "#f4f2ec",
+    "#151515",
+    "#7f8a75",
+    "#3c4637",
+    "#d9d2c4"
+  ],
+  "icon": "M18 46h36M24 26h24v15H24V26Zm6 25h12M30 19h12M22 56h28",
+  "longTailPages": [
+    {
+      "slug": "best-under-desk-cable-management-tray",
+      "title": "Best Under Desk Cable Management Tray",
+      "intent": "clean cable routing",
+      "angle": "trays and channels that move power strips, adapters, and cable slack out of sight without making maintenance impossible",
+      "productHints": [
+        "cable",
+        "tray",
+        "management",
+        "under desk"
+      ]
+    },
+    {
+      "slug": "best-monitor-stand-riser-for-desk",
+      "title": "Best Monitor Stand Riser For Desk",
+      "intent": "better monitor height",
+      "angle": "risers that lift a screen while adding just enough storage for notebooks, hubs, or desk clutter",
+      "productHints": [
+        "monitor",
+        "stand",
+        "riser",
+        "shelf"
+      ]
+    },
+    {
+      "slug": "best-laptop-stand-for-home-office",
+      "title": "Best Laptop Stand For Home Office",
+      "intent": "laptop-first desk ergonomics",
+      "angle": "stands that make a laptop feel less temporary when it becomes the main work machine",
+      "productHints": [
+        "laptop",
+        "stand",
+        "riser",
+        "holder"
+      ]
+    },
+    {
+      "slug": "best-desk-organizer-for-minimalist-setup",
+      "title": "Best Desk Organizer For A Minimalist Setup",
+      "intent": "low-clutter desktop storage",
+      "angle": "organizers that keep daily tools close without turning the desk into a supply closet",
+      "productHints": [
+        "organizer",
+        "drawer",
+        "storage",
+        "desk"
+      ]
+    },
+    {
+      "slug": "best-under-desk-drawer",
+      "title": "Best Under Desk Drawer",
+      "intent": "hidden desk storage",
+      "angle": "under-desk drawers and trays for small items that need a home but not a permanent place on the desktop",
+      "productHints": [
+        "under desk",
+        "drawer",
+        "storage",
+        "tray"
+      ]
+    },
+    {
+      "slug": "best-desk-accessories-for-small-spaces",
+      "title": "Best Desk Accessories For Small Spaces",
+      "intent": "compact workspace upgrades",
+      "angle": "space-conscious accessories that help a small desk stay functional after the laptop, keyboard, and drink arrive",
+      "productHints": [
+        "compact",
+        "small",
+        "organizer",
+        "stand",
+        "tray"
+      ]
+    }
+  ],
+  "affiliateTag": "deno-sites-20",
+  "lastUpdated": "2026-06-26",
+  "productCount": 24,
+  "urls": [
+    "https://rmulkey.github.io/deskforge/",
+    "https://rmulkey.github.io/deskforge/top-7/",
+    "https://rmulkey.github.io/deskforge/guides/premium-desk-setup-accessories-guide/",
+    "https://rmulkey.github.io/deskforge/best/best-under-desk-cable-management-tray/",
+    "https://rmulkey.github.io/deskforge/best/best-monitor-stand-riser-for-desk/",
+    "https://rmulkey.github.io/deskforge/best/best-laptop-stand-for-home-office/",
+    "https://rmulkey.github.io/deskforge/best/best-desk-organizer-for-minimalist-setup/",
+    "https://rmulkey.github.io/deskforge/best/best-under-desk-drawer/",
+    "https://rmulkey.github.io/deskforge/best/best-desk-accessories-for-small-spaces/",
+    "https://rmulkey.github.io/deskforge/affiliate-disclosure/",
+    "https://rmulkey.github.io/deskforge/editorial-policy/",
+    "https://rmulkey.github.io/deskforge/contact/"
+  ],
+  "products": [
+    {
+      "asin": "B0BYDGF8DT",
+      "title": "OPNICE Desk Organizer, 4-Tier Desktop File Organizer with Drawer and 2 Pen Holders, Office Desk Accessories, File Sorters, Worksp...",
+      "image": "https://m.media-amazon.com/images/I/81CYxEUhq-L._AC_SL1500_.jpg",
+      "category": "Organization",
+      "url": "https://www.amazon.com/dp/B0BYDGF8DT?tag=deno-sites-20"
+    },
+    {
+      "asin": "B0DSZGQDKG",
+      "title": "UPERGO Desk Drawer Organizer Tray, Mens Valet Made of Aluminum and Walnut, Aesthetic Desk Accessories for Office Home Supplies",
+      "image": "https://m.media-amazon.com/images/I/71rjv8NHTXL._AC_SL1500_.jpg",
+      "category": "Organization",
+      "url": "https://www.amazon.com/dp/B0DSZGQDKG?tag=deno-sites-20"
+    },
+    {
+      "asin": "B0CGQN3N98",
+      "title": "KINGFOM Desk Organizer with Drawer, Multifunction Pencil Holder for Desk, Desk Organizer and Accessories 5 Compartments for Home...",
+      "image": "https://m.media-amazon.com/images/I/71mx695g3cL._AC_SL1500_.jpg",
+      "category": "Organization",
+      "url": "https://www.amazon.com/dp/B0CGQN3N98?tag=deno-sites-20"
+    },
+    {
+      "asin": "B09G9GY3DP",
+      "title": "deli Desk Organizer, Plastic Desktop Organizer with Pencil Holder and Sticky Note Tray, Office Stationery Supplies Organizers Acc...",
+      "image": "https://m.media-amazon.com/images/I/617kl1IczjL._AC_SL1500_.jpg",
+      "category": "Organization",
+      "url": "https://www.amazon.com/dp/B09G9GY3DP?tag=deno-sites-20"
+    },
+    {
+      "asin": "B0CCDJQ7MM",
+      "title": "Marbrasse Expandable Desk Drawer Organizer, Mesh Drawer Organizer Tray with 10 Adjustable Compartments, Desk Organizers and Acces...",
+      "image": "https://m.media-amazon.com/images/I/81F-jj5eWpL._AC_SL1500_.jpg",
+      "category": "Organization",
+      "url": "https://www.amazon.com/dp/B0CCDJQ7MM?tag=deno-sites-20"
+    },
+    {
+      "asin": "B0GN1TZZ9W",
+      "title": "WALI Desk File Organizer, 4 Tier Desktop Paper Letter Tray Organizer with Drawer and 2 Pen Holders, Office Desk Accessories & Wor...",
+      "image": "https://m.media-amazon.com/images/I/71JWbs5XYdL._AC_SL1500_.jpg",
+      "category": "Organization",
+      "url": "https://www.amazon.com/dp/B0GN1TZZ9W?tag=deno-sites-20"
+    },
+    {
+      "asin": "B09K5927B5",
+      "title": "Marbrasse Desk Organizer with File Holder, 5-Tier Paper Letter Tray Organizer with Drawer and 2 Pen Holder, Mesh Desktop Organize...",
+      "image": "https://m.media-amazon.com/images/I/81utGiRaWvL._AC_SL1500_.jpg",
+      "category": "Organization",
+      "url": "https://www.amazon.com/dp/B09K5927B5?tag=deno-sites-20"
+    },
+    {
+      "asin": "B0C9ZHWC9K",
+      "title": "SKYDUE 360 Rotating Plastic Desk Pen Organizer with 5 Slots, Dual-Purpose Art Supply Pencil Cup for Office, School, Home",
+      "image": "https://m.media-amazon.com/images/I/61yhHuVQp4L._AC_SL1500_.jpg",
+      "category": "Organization",
+      "url": "https://www.amazon.com/dp/B0C9ZHWC9K?tag=deno-sites-20"
+    },
+    {
+      "asin": "B0FCMCNS7D",
+      "title": "gianotter Wood Desk Organizers and Accessories with File Sorters, 4-Tier Desk Accessories & Workspace Organizers with Drawer and...",
+      "image": "https://m.media-amazon.com/images/I/81IGywLoS3L._AC_SL1500_.jpg",
+      "category": "Organization",
+      "url": "https://www.amazon.com/dp/B0FCMCNS7D?tag=deno-sites-20"
+    },
+    {
+      "asin": "B0CNW6FPWS",
+      "title": "UPERGO Walnut Desk Tray with Pen Holder Set, Natural Wooden Desk Drawer Organizer Office, Organizer Tray for Keys, Pen, Watch",
+      "image": "https://m.media-amazon.com/images/I/61yAEr-XpWL._AC_SL1500_.jpg",
+      "category": "Organization",
+      "url": "https://www.amazon.com/dp/B0CNW6FPWS?tag=deno-sites-20"
+    },
+    {
+      "asin": "B0BLZ51K1M",
+      "title": "Neudeco Desk Drawer Organizer, 4 Pack Metal Mesh, Black | Adjustable Dividers, Stackable, Pen Organizer, Office Supplies Organizer",
+      "image": "https://m.media-amazon.com/images/I/8141nAE2vUL._AC_SL1500_.jpg",
+      "category": "Organization",
+      "url": "https://www.amazon.com/dp/B0BLZ51K1M?tag=deno-sites-20"
+    },
+    {
+      "asin": "B0F6CPQD4F",
+      "title": "DAOUTIME 6-Tier Mesh Desk Organizer with Drawer, Wooden Office Organizer for Papers, Folders & Office Supplies - Sturdy Desktop F...",
+      "image": "https://m.media-amazon.com/images/I/81Tl-JoWlFL._AC_SL1500_.jpg",
+      "category": "Organization",
+      "url": "https://www.amazon.com/dp/B0F6CPQD4F?tag=deno-sites-20"
+    },
+    {
+      "asin": "B0DNFD99L8",
+      "title": "dreampossible Brown Wood Desk Organizer and Accessories with Drawer, Bill Mail Organizer and File Mail Holder for Office Supplies...",
+      "image": "https://m.media-amazon.com/images/I/816V6rbUM1L._AC_SL1500_.jpg",
+      "category": "Organization",
+      "url": "https://www.amazon.com/dp/B0DNFD99L8?tag=deno-sites-20"
+    },
+    {
+      "asin": "B0CQP9LYXC",
+      "title": "M&G Mesh Pen Holder Desk Organizers Pencil Holder for Desk Black, 3 Compartments Metal Office Supply Organizer with Sticky Notes...",
+      "image": "https://m.media-amazon.com/images/I/71Yp3uUlCbL._AC_SL1500_.jpg",
+      "category": "Organization",
+      "url": "https://www.amazon.com/dp/B0CQP9LYXC?tag=deno-sites-20"
+    },
+    {
+      "asin": "B0F5PPDTVR",
+      "title": "OPNICE Desk Organizers and Accessories, Dual Monitor Stand Riser with Drawer and 2 Pen Holders, Desk Shelf Metal Computer Racks f...",
+      "image": "https://m.media-amazon.com/images/I/71vIgL35wZL._AC_SL1500_.jpg",
+      "category": "Organization",
+      "url": "https://www.amazon.com/dp/B0F5PPDTVR?tag=deno-sites-20"
+    },
+    {
+      "asin": "B08VPFB5G3",
+      "title": "Amazon Basics Mesh Desk Organizer with Pen Holder, Pullout Drawer and Office Caddy Storage, 9.25\" x 4.53\" x 3.94\", Black",
+      "image": "https://m.media-amazon.com/images/I/91pShb9GtvS._AC_SL1500_.jpg",
+      "category": "Organization",
+      "url": "https://www.amazon.com/dp/B08VPFB5G3?tag=deno-sites-20"
+    },
+    {
+      "asin": "B0C9CFQGLX",
+      "title": "Nordik Leather Valet Tray - Pebble Black - 9.5 x 7.9 Inch Medium Vegan Leather Tray - Stylish Nightstand Organizer for Men - Mode...",
+      "image": "https://m.media-amazon.com/images/I/71HR3+aO7PL._AC_SL1500_.jpg",
+      "category": "Organization",
+      "url": "https://www.amazon.com/dp/B0C9CFQGLX?tag=deno-sites-20"
+    },
+    {
+      "asin": "B0FX3RDG2F",
+      "title": "Wooden Desk Tray with Integrated Pen Holder, Luxury Office Organizer for Executive Desk, Minimalist Wood & Metal Stationery Stora...",
+      "image": "https://m.media-amazon.com/images/I/716pcUuT5IL._AC_SL1500_.jpg",
+      "category": "Organization",
+      "url": "https://www.amazon.com/dp/B0FX3RDG2F?tag=deno-sites-20"
+    },
+    {
+      "asin": "B0BVNCZQTR",
+      "title": "BLU MONACO | White Wooden Desk Organizer & Mail Organizer with Drawer & Gold Handle | Mail Sorter Countertop | 6 Compartments | W...",
+      "image": "https://m.media-amazon.com/images/I/81IylMBE82L._AC_SL1500_.jpg",
+      "category": "Organization",
+      "url": "https://www.amazon.com/dp/B0BVNCZQTR?tag=deno-sites-20"
+    },
+    {
+      "asin": "B0G8Z6J86B",
+      "title": "gianotter Desk Organizers and Accessories with File Holder, 4-Tier Desk Accessories & Workspace Organizers with Drawer and 2 Pen...",
+      "image": "https://m.media-amazon.com/images/I/81AQ5hvJubL._AC_SL1500_.jpg",
+      "category": "Organization",
+      "url": "https://www.amazon.com/dp/B0G8Z6J86B?tag=deno-sites-20"
+    },
+    {
+      "asin": "B0BYMRJD7R",
+      "title": "Marbrasse Pen Organizer with 2 Drawer, Multi-Functional Pencil Holder for Desk, Desk Organizers and Accessories with 5 Compartmen...",
+      "image": "https://m.media-amazon.com/images/I/71B4FwZxCAL._AC_SL1500_.jpg",
+      "category": "Organization",
+      "url": "https://www.amazon.com/dp/B0BYMRJD7R?tag=deno-sites-20"
+    },
+    {
+      "asin": "B0C3GM11GH",
+      "title": "gianotter Desk Organizers and Accessories with File Holder, 4-Tier Desk Accessories & Workspace Organizers with Drawer and 2 Pen...",
+      "image": "https://m.media-amazon.com/images/I/81YJ531c9NL._AC_SL1500_.jpg",
+      "category": "Organization",
+      "url": "https://www.amazon.com/dp/B0C3GM11GH?tag=deno-sites-20"
+    },
+    {
+      "asin": "B0FL2RTSRM",
+      "title": "Gphudpzdl Wooden Desk Organizer with Drawers, 4 Tier Office Organizer and Accessories, Paper File Mail Organizer, Brown",
+      "image": "https://m.media-amazon.com/images/I/71I8QLOZJxL._AC_SL1500_.jpg",
+      "category": "Organization",
+      "url": "https://www.amazon.com/dp/B0FL2RTSRM?tag=deno-sites-20"
+    },
+    {
+      "asin": "B07R7FZ6RG",
+      "title": "Simple Trending 7 Tier Desk File Organizer, Letter Tray Paper Organizer with Pen Holder and Metal Hanging Basket, Black",
+      "image": "https://m.media-amazon.com/images/I/91AUT7AZwJL._AC_SL1500_.jpg",
+      "category": "Organization",
+      "url": "https://www.amazon.com/dp/B07R7FZ6RG?tag=deno-sites-20"
+    }
+  ]
+}
